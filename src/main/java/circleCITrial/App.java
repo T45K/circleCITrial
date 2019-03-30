@@ -8,6 +8,7 @@ public class App {
         int a;
         int b;
         int c;
+        int d;
         return "Hello world.";
     }
 
