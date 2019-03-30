@@ -7,6 +7,7 @@ public class App {
     public String getGreeting() {
         int a;
         int b;
+        int c;
         return "Hello world.";
     }
 
