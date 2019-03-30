@@ -5,8 +5,7 @@ package circleCITrial;
 
 public class App {
     public String getGreeting() {
-        int a;
-        return "Hello world.";
+        return "Hello world!";
     }
 
     public static void main(String[] args) {
